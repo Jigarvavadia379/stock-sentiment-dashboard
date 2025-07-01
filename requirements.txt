@@ -1,0 +1,6 @@
+yfinance
+requests
+streamlit
+transformers
+psycopg2-binary
+schedule
